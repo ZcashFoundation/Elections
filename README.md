@@ -52,7 +52,7 @@ The folders are self explanatory, but just in case: if you're nominating yoursel
 
 For general measures (e.g, "Should the Foundation put more resources into studying ASIC Resistance?" "Which of these five attributes of a privacy-preserving cryptocurrency should be prioritized?" etc.) a submitter should put a markdown file in the corresponding folder with their statement and possible responses as a Pull Request, and a brief background explaining the context of their proposal and their best-effort at pros/cons of each possible selection.
 
-Proposals can be opened at any time, but Foundation personnel will make the ultimate decision whether to include a proposed ballot measure into the final ballot (signified by merging into the repository). To the final ballot will be assembled **by May 31st, 2018.**
+Proposals can be opened at any time, but Foundation personnel will make the ultimate decision whether to include a proposed ballot measure into the final ballot (signified by merging into the repository). The final ballot will be assembled **by May 31st, 2018.**
 
 ## Voting Structure and Outcome
 
