@@ -1,5 +1,3 @@
-(obviously not real)
-
 # Jeff Cliff
 
 I, Jeff Cliff, hereby nominate myself for the Zcash Foundation Board of Directors.
