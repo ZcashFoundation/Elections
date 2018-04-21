@@ -37,7 +37,9 @@ Example:
 @socrates1024 says: I’m going to participate as an approval voter of the Zcash Foundation. My name’s on their spreadsheet here: <link to z.cash.foundation/election-2018-Q12>, with my permission. Correspondence as part of that will be GPG signed by me. I’ll also tweet about it after I vote.
 ```
 
-The Executive Director will manage and maintain this list, and will publish it prior to the election. For members that believe they should be on the Panel, they can [apply here.](https://zcashfoundation.formstack.com/forms/community_governance)
+The Executive Director will manage and maintain this list, and will publish it prior to the election within this repository. For members that believe they should be on the Panel, they can [apply here.](https://zcashfoundation.formstack.com/forms/community_governance)
+
+**Please note: if you apply and are rejected, we are planning on making a public note of the rejection within this respository.** This is to maximize transparency on the vetting process, given the limitation of the Foundation selecting members unilaterally. Please consider this before applying.
 
 ## Ballot Structure
 
