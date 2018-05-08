@@ -19,7 +19,7 @@ The second objective is more abstract, but just as important; the Foundation has
 
 For prospective Board Members, the expected time commitment is one video call/meeting every two months, along with sporadic email communication when the Executive Director/Chairperson needs feedback (a few hours a week on average, with some variance) and attendance at our annual conference (Zcon). Also please note that being on the Board is currently an unpaid position. 
 
-And what does it mean to be a "root authority" in control of the organization? In our [Chairman's words](https://twitter.com/socrates1024/status/987374121892839424), their steer the Foundation and are ultimately responsible for it (e.g., hiring/firing the Executive Director, having bold visions about the Foundation's future, and working with said Executive Director to execute on them).
+And what does it mean to be a "root authority" in control of the organization? In our [Chairman's words](https://twitter.com/socrates1024/status/987374121892839424), they steer the Foundation and are ultimately responsible for it (e.g., hiring/firing the Executive Director, having bold visions about the Foundation's future, and working with said Executive Director to execute on them).
 
 ## The Community Governance Panel
 
