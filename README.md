@@ -15,6 +15,12 @@ A small board that is motivated and engaged is better than one with a diffuse se
 
 The second objective is more abstract, but just as important; the Foundation has many challenges ahead and understanding community sentiment is tantamount to serving our ever-expanding stakeholders in the Zcash and broader privacy-focused community.
 
+### Being on the Zcash Foundation Board: Duties and Expectations
+
+For prospective Board Members, the expected time commitment is one video call/meeting every two months, along with sporadic email communication when the Executive Director/Chairperson needs feedback (a few hours a week on average, with some variance) and attendance at our annual conference (Zcon). Also please note that being on the Board is currently an unpaid position. 
+
+And what does it mean to be a "root authority" in control of the organization? In our [Chairman's words](https://twitter.com/socrates1024/status/987374121892839424), their steer the Foundation and are ultimately responsible for it (e.g., hiring/firing the Executive Director, having bold visions about the Foundation's future, and working with said Executive Director to execute on them).
+
 ## The Community Governance Panel
 
 ...so with our objectives clear, how do we achieve them? What should this election look like? Who are the "stakeholders" in our organization? Some approaches include polling the miners, or polling stakeholders. Each of these is appealing because it's quantitative, and has a technical description. They're examples of _"On-Chain Governance"._ We have issues for discussing these in our public GitHub repository. As a non-profit, we must operate inline with a broad public mission, rather than to enrich a few. It’s difficult to pick a mechanism that gives a fair but effective representation and cannot be gamed.
@@ -82,6 +88,7 @@ Each approved general measure will be voted on individually, depending on the pa
 Voting will commence between the final ballot assembly (**May 31st, 2018**) and two weeks afterward (**June 14th, 2018**), and will be managed by the Executive Director of the Foundation. Results will be announced at Zcon0 before being published widely.
 
 Due to our bylaws, decisions must ultimately be made by majority vote of Board Members. Hence we cannot declare this election to be binding—instead the outcome of the election will have to be ratified by the Board Members before taking effect. But we find it unlikely that the Board would go against the will of the community in a fair, well-constructed election.
+
 
 ## Frequency and Feedback
 
