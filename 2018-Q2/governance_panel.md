@@ -37,14 +37,14 @@
 | Jack Grigg | https://twitter.com/str4d/status/994131682100961280 |
 | Dimitris Apostolou | https://steemit.com/cryptocurrency/@apostolou/intent-to-participate-in-the-zcash-foundation-community-governance-panel |
 | Simon Liu | |
-| Chase Cole | |
-| Nic Carter | |
+| Chase Cole | https://twitter.com/jarredchasecole/status/999711810830745600 |
+| Nic Carter | https://twitter.com/nic__carter/status/999633560456835072 |
 | Derek Hsue | |
 | Matthew Rizzio | |
 | Aaron Orelup | |
 | Howard Loo | |
 | Lawson Baker | https://twitter.com/lwsnbaker/status/999669027868852224 |
-
+| Steven McKie | https://twitter.com/Steven_McKie/status/999718581985148929 |
 
 
 ### Rejected Members
