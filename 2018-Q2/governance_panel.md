@@ -48,6 +48,7 @@
 | Hudson Jameson | https://twitter.com/hudsonjameson/status/999887435084410880 |
 | Brendan Bernstein | |
 | Ian Miers | https://twitter.com/secparam/status/1000063064253911040 |
+| Eric Metzler | https://twitter.com/wheatpond/status/1000133384704856065 |
 
 
 ### Rejected Members
