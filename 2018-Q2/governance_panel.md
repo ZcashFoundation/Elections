@@ -46,6 +46,8 @@
 | Lawson Baker | https://twitter.com/lwsnbaker/status/999669027868852224 |
 | Steven McKie | https://twitter.com/Steven_McKie/status/999718581985148929 |
 | Hudson Jameson | https://twitter.com/hudsonjameson/status/999887435084410880 |
+| Brendan Bernstein | |
+| Ian Miers | https://twitter.com/secparam/status/1000063064253911040 |
 
 
 ### Rejected Members
