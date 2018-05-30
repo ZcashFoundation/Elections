@@ -51,6 +51,8 @@
 | Eric Metzler | https://twitter.com/wheatpond/status/1000133384704856065 |
 | Steven Zheng | https://twitter.com/Dogetoshi/status/1000561381790363649 |
 | John Bruhling | https://twitter.com/JBruhling/status/1000197993461510144 |
+| kek (forum.z.cash username) | |
+| Tiaan Schoeman | |
 
 
 ### Rejected Members
