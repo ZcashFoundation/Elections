@@ -53,6 +53,7 @@
 | John Bruhling | https://twitter.com/JBruhling/status/1000197993461510144 |
 | kek (forum.z.cash username) | |
 | Tiaan Schoeman | |
+| bit (forum.z.cash username) | |
 
 
 ### Rejected Members
