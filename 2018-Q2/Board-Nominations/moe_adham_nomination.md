@@ -28,6 +28,8 @@ At Bitaccess, we've built a pretty great access point for cryptocurrencies throu
 We also do a good amount of work with Governments to increase transparency and auditability https://explorecatena.com. Through this work, I am able to gain unique insight into methods and models which governments are using to regulate and monitor public blockchain networks.
 
 Location: CANADA (Eastern Standard Time)
+
 LinkedIn Profile: https://www.linkedin.com/in/moeadham/
+
 E-mail: moeadham _AT_ protonmail.com
 
