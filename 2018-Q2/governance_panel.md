@@ -8,7 +8,7 @@
 | ---- | ----------------------------- |
 | Gibson Ashpool | https://twitter.com/mineZcash/status/994182923619328002 |
 | Zaki Manian | |
-| Daniel Benarroch | 
+| Daniel Benarroch | https://twitter.com/BenarrochDaniel/status/1002172341961584640 | 
 | Gordon Mohr | https://twitter.com/gojomo/status/996186790552784896 |
 | Rocelo Lopes | |
 | Justin Ehrenhofer | https://twitter.com/JEhrenhofer/status/992506049079971840 |

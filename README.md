@@ -85,7 +85,7 @@ The two candidates with the most total votes are the winners. The votes are weig
 
 Each approved general measure will be voted on individually, depending on the parameters of the ballot.
 
-Voting will commence between the final ballot assembly (**May 31st, 2018**) and two weeks afterward (**June 14th, 2018**), and will be managed by the Executive Director of the Foundation. Results will be announced at Zcon0 before being published widely.
+Voting will commence between the final ballot assembly (~~May 31st, 2018~~ June 8th, 2018) and two weeks afterward (~~June 14th, 2018~~ June 22nd, 2018), and will be managed by the Executive Director of the Foundation. Results will be announced at Zcon0 before being published widely. (Note: we have updated the dates to give more time for ballot discussion and governance panel applications)
 
 Due to our bylaws, decisions must ultimately be made by majority vote of Board Members. Hence we cannot declare this election to be binding—instead the outcome of the election will have to be ratified by the Board Members before taking effect. But we find it unlikely that the Board would go against the will of the community in a fair, well-constructed election.
 
