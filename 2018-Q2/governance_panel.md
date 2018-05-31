@@ -54,7 +54,12 @@
 | kek (forum.z.cash username) | |
 | Tiaan Schoeman | |
 | bit (forum.z.cash username) | |
-
+| root (forum.z.cash username) | |
+| Murad Mahmudov | |
+| Cody Burns | https://twitter.com/DontPanicBurns/status/1001980867672264711 |
+| Skylar Saveland | https://twitter.com/_skyl/status/1001955753891192832 |
+| Hossein Amin | |
+| ZK (chat.zcashcommunity.com username) | |
 
 ### Rejected Members
 
