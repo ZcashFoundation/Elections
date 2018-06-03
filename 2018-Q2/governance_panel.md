@@ -62,6 +62,7 @@
 | ZK (chat.zcashcommunity.com username) | |
 | Daira Hopwood | |
 | Fabrice Marchal | https://twitter.com/ZcashFr/status/1002275034491219969 |
+| Alex Von Schulze | https://twitter.com/avonschulze/status/1002191403412226050 |
 
 ### Rejected Members
 
