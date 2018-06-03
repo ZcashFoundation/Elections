@@ -55,11 +55,13 @@
 | Tiaan Schoeman | |
 | bit (forum.z.cash username) | |
 | root (forum.z.cash username) | |
-| Murad Mahmudov | |
+| Murad Mahmudov | https://twitter.com/MustStopMurad/status/1002219246389252098 |
 | Cody Burns | https://twitter.com/DontPanicBurns/status/1001980867672264711 |
 | Skylar Saveland | https://twitter.com/_skyl/status/1001955753891192832 |
 | Hossein Amin | |
 | ZK (chat.zcashcommunity.com username) | |
+| Daira Hopwood | |
+| Fabrice Marchal | https://twitter.com/ZcashFr/status/1002275034491219969 |
 
 ### Rejected Members
 
