@@ -1,4 +1,5 @@
-# Ballot Proposal: Embracing Simple PoW and ASICs, A Long-Term Plan to Decentralize Mining
+# Ballot Proposal: Embracing Simple PoW and ASICs
+## A Long-Term Plan to Decentralize Mining
 
 Proposed ballot entry, and convenient TL;DR:
 
@@ -24,11 +25,11 @@ That statement sowed the seeds for this ballot proposal, and in particular this 
 > The Foundation believes it’s important to maintain the power of GPUs in Zcash mining. However—and this nuance is important—we also recognize that ASIC resistance may be a red herring, for the health and decentralization of the protocol in the long term. **Perhaps there is another path that we could take, with ample time for community buy-in—and we welcome input on getting there.**
 > In the short term, we consider it critical to protect the community members who are building the ecosystem with us. If it’s necessary based on our evaluation of the ASICs on the network, we will hire a developer to construct and submit a ZIP to mitigate its effect on the network. If the Zcash core development team and community approves, it will ideally be deployed by late 2018.
 
-This ballot proposal is that alternate path, one that I believe is worth discussing—one that turns over the script by **embracing ASICs and simple PoW, but only so long as we can encourage open commoditization and access to mining hardware.**
+This ballot proposal is that alternate path, one that I believe is worth discussing—one that flips the debate by **embracing ASICs and simple PoW, but only so long as we can encourage open commoditization and access to mining hardware.**
 
 **Full disclosure: what follows is my personal opinion, and not representative of official Foundation policy.** That I am a Foundation employee should not weigh on your evaluation of this proposal, instead let the scales be tipped by the merits of the argument contained herein.
 
-To be blunt: I do not think ASIC Resistant is a long-term, sustainable goal. I *do* think, based on the data available at the time, it was reasonable to make that a high priority when Zcash launched, and that it helped to encourage broader, fairer distribution of ZEC, but to me it is abundantly clear that it's not the right design goal today. With a high enough economic incentive, a hardware manufacturer will ultimately find some way to make an application-specific circuit...and if it's in a particular position, it could monopolize the development and distribution of such a circuit. That creates a dangerous environment for centralization. On the other side of the coin, if you somehow managed to make a truly ASIC-resistant PoW design (something I consider impossible), then if you are not the largest coin using general compute power you open yourself up to [51% attacks, potentially by virtual compute cycles](https://www.crypto51.app/).
+To be blunt: I do not think ASIC Resistant is a long-term, sustainable goal. I *do* think, based on the data available at the time, it was reasonable to make that a high priority when Zcash launched, and that it helped to encourage broader, fairer distribution of ZEC, but to me it is abundantly clear that it's not the right design goal today. With a high enough economic incentive, a hardware manufacturer will ultimately find some way to make an application-specific circuit...and if it's in a particular position, it could monopolize the development and distribution of such a circuit. That creates a dangerous environment for centralization. On the other side of the coin, if you somehow managed to make a truly ASIC-resistant PoW design (something many consider impossible, myself included), then if you are not the largest coin using general compute power you open yourself up to [51% attacks, potentially by easily-rented, virtual compute cycles](https://www.crypto51.app/).
 
 I won't spend time re-*hashing* these arguments, but suffice it to say that the following articles have influenced my thinking on ASICs and PoW, and I strongly encourage anyone reading this ballot proposal (and really any cryptocurrency enthusiast) to also consider reading these articles:
 
