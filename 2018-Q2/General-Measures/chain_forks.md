@@ -2,7 +2,7 @@
 
 ## Proposal Text
 
-Any significant effort by the Foundation to develop or promote a cryptocurrency shall be directed at either the (1) Zcash blockchain; or (2) chain forks (chain splits) of the Zcash blockchain that carry forward the percentage stakes of Zcash holders at the time of the fork (split).
+Any significant effort by the Foundation to develop or promote a cryptocurrency shall be directed at either the (1) Zcash blockchain; or (2) chain forks (chain splits) of the Zcash blockchain that approximately carry forward the percentage stakes of Zcash holders immediately before the fork (split) to the money supply in circulation immediately after the fork (split).
 
 - Agree
 - Disagree
