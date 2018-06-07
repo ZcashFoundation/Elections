@@ -41,7 +41,7 @@
 | Nic Carter | https://twitter.com/nic__carter/status/999633560456835072 |
 | Derek Hsue | |
 | Matthew Rizzio | |
-| Aaron Orelup | |
+| Aaron Orelup | https://twitter.com/LtdZen/status/999518580650655744 |
 | Howard Loo | |
 | Lawson Baker | https://twitter.com/lwsnbaker/status/999669027868852224 |
 | Steven McKie | https://twitter.com/Steven_McKie/status/999718581985148929 |
