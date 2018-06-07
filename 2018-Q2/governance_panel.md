@@ -60,7 +60,7 @@
 | Skylar Saveland | https://twitter.com/_skyl/status/1001955753891192832 |
 | Hossein Amin | |
 | ZK (chat.zcashcommunity.com username) | |
-| Daira Hopwood | |
+| Daira Hopwood | https://twitter.com/feministPLT/status/1003711602036756480 |
 | Fabrice Marchal | https://twitter.com/ZcashFr/status/1002275034491219969 |
 | Alex Von Schulze | https://twitter.com/avonschulze/status/1002191403412226050 |
 
