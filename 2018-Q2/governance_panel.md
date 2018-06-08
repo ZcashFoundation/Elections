@@ -63,6 +63,9 @@
 | Daira Hopwood | https://twitter.com/feministPLT/status/1003711602036756480 |
 | Fabrice Marchal | https://twitter.com/ZcashFr/status/1002275034491219969 |
 | Alex Von Schulze | https://twitter.com/avonschulze/status/1002191403412226050 |
+| Hershy Ash | https://twitter.com/HershyatHatch/status/1004497909319159808 |
+| William Brown | https://twitter.com/marketwizemedia/status/1004498072343334912 |
+| Louis Mareschi | https://twitter.com/louismareschi/status/1004533065140428800 |
 
 ### Rejected Members
 
