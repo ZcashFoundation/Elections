@@ -44,4 +44,4 @@ The Foundation was designed from the beginning to be independent of the Zcash Co
 
 ### With respect to chain forks, current users of the Zcash blockchain are best served by chain forks that preserve each user's percentage stake 
 
-Many users have expended significant resources to obtain a ZEC stake, either through mining ZEC, purchasing ZEC from an exchange, or earning ZEC by selling goods or services. A Foundation-backed chain fork should respect current ZEC holders by preserving each user's percentage stake at the time of the fork.
+Many users have expended significant resources to obtain a ZEC stake, either through mining ZEC, purchasing ZEC from an exchange, or earning ZEC by selling goods or services. Any Foundation-backed chain fork should respect current ZEC holders by approximately preserving each user's percentage stake (by approximately carrying forward that percentage stake to the money supply in circulation immediately after the fork).
