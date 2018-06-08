@@ -42,7 +42,7 @@
 | Derek Hsue | |
 | Matthew Rizzio | |
 | Aaron Orelup | https://twitter.com/LtdZen/status/999518580650655744 |
-| Howard Loo | |
+| Howard Loo | https://twitter.com/hloo/status/1004994002859376640 |
 | Lawson Baker | https://twitter.com/lwsnbaker/status/999669027868852224 |
 | Steven McKie | https://twitter.com/Steven_McKie/status/999718581985148929 |
 | Hudson Jameson | https://twitter.com/hudsonjameson/status/999887435084410880 |
