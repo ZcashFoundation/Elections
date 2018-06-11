@@ -45,3 +45,66 @@ The Foundation was designed from the beginning to be independent of the Zcash Co
 ### With respect to chain forks, current users of the Zcash blockchain are best served by chain forks that preserve each user's percentage stake 
 
 Many users have expended significant resources to obtain a ZEC stake, either through mining ZEC, purchasing ZEC from an exchange, or earning ZEC by selling goods or services. Any Foundation-backed chain fork should respect current ZEC holders by approximately preserving each user's percentage stake (by approximately carrying forward that percentage stake to the money supply in circulation immediately after the fork).
+
+## Questions and Answers
+
+Under the framework of this ballot measure, the questions that Zooko raised regarding ["where the bounds of the Zcash Foundation's authority lie"](https://github.com/ZcashFoundation/ZcashFoundation/issues/56#issuecomment-357319825) would be answered as described below.
+
+Note that the preamble to all the questions is:
+
+> Could it ever be appropriate, and possible, and Good and Right, for the Zcash Foundation to:
+
+Questions:
+
+> Support a backwards-incompatible (so-called “hard forking”) network upgrade, such as Overwinter and Sapling that the Zcash Company is developing and deploying?
+
+**Yes.**
+
+> Oppose such a backwards-incompatible network upgrade that the Zcash Company is developing and deploying?
+
+**Yes. Since the Foundation is independent from the Company, the Foundation is free to oppose hard forks proposed by the Company.**
+
+> Develop and deploy its own backwards-incompatible network upgrade? What about one that might be opposed by The Zcash Company or by another powerful stakeholder? (See also A Future Friendly Fork.)
+
+**Yes. Since the Foundation is independent from the Company, it is appropriate for the Foundation to unilaterally develop and deploy its own chain forks of Zcash. The Foundation's ability to do so increases its leverage in negotiations with the Company and other entities.**
+
+> Support an upgrade that changes the 21M total supply cap?
+
+**Yes. Without addressing the wisdom of such an upgrade, this ballot measure would not preclude the foundation from supporting it.**
+
+> Support an upgrade that changes the Proof-of-Work algorithm?
+
+**Yes. Without addressing the wisdom of such an upgrade, this ballot measure would not preclude the foundation from supporting it.**
+
+>Support an upgrade that switches from Proof-of-Work to Proof-of-Stake?
+
+**Yes. Without addressing the wisdom of such an upgrade, this ballot measure would not preclude the foundation from supporting it.**
+
+>Support an upgrade that changes the amount or recipients of the Founder's Reward?
+
+**Yes (without addressing the wisdom of such an upgrade), but only prospectively.**
+
+> Support an upgrade that changes the amount or recipients of the block reward? (For example, "50% of the block reward goes to the miner who found the block, and 50% of the block reward goes to some specific public keys selected by some specific process.")
+
+**Yes (without addressing the wisdom of such an upgrade), but only prospectively.**
+
+> Contribute improvements (for example, security audits, security fixes, performance and feature upgrades) to other coins such as Monero?
+
+**Yes, unless the contribution requires the Foundation to expend "significant" effort or resources.**
+
+> Develop their own complete Zcash implementation?
+
+**Yes, so long as the implementation is directed at the current Zcash blockchain or chain forks thereof.**
+
+> Develop their own complete Monero implementation?
+
+**No. This would constitute a "significant effort by the Foundation to develop or promote a cryptocurrency." The ballot measure requires that significant efforts to develop or promote a cryptocurrency must be directed at the Zcash blockchain or chain forks thereof.**
+
+> Launch a new coin?
+
+**No, unless the new coin is a chain fork of the Zcash blockchain.**
+
+> Launch a "fork"/"airdrop", such as by forking the Zcash blockchain or the Bitcoin blockchain or the Ethereum blockchain, and/or by giving all current holders of other coins free newly-generated coins?
+
+**No. The ballot measure precludes the Foundation from launching forks of blockchains other than the Zcash blockchain. With respect to forking the Zcash blockchain and then airdropping coins onto holders other coins, this is also precluded by the ballot measure, because it would immediately dilute the percentage stakes of Zcash holders by significantly increasing the money supply in circulation immediately after the fork.**
+
