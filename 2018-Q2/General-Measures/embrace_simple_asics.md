@@ -4,7 +4,7 @@
 Proposed ballot entry, and convenient TL;DR:
 
 ```
-The Foundation should commit to migrating the Zcash protocol to a new proof of work algorithm with a hard-fork planned between September 30, 2020 and December 31, 2020, with the following goals:
+The Foundation should commit to a plan for migrating the Zcash protocol to a new proof of work algorithm with a hard-fork planned between September 30, 2020 and December 31, 2020, with the following tasks below:
 
 - Selecting a thermodynamically efficient (not ASIC-resistant!), currently unused proof-of-work algorithm
 - Hosting and building an open hardware specification for the selected PoW algorithm
