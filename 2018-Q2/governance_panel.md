@@ -66,7 +66,9 @@
 | Hershy Ash | https://twitter.com/HershyatHatch/status/1004497909319159808 |
 | William Brown | https://twitter.com/marketwizemedia/status/1004498072343334912 |
 | Louis Mareschi | https://twitter.com/louismareschi/status/1004533065140428800 |
+| Vladimir Dinev | https://twitter.com/Vladimirl201/status/1006569180072697856 |
 
 ### Rejected Members
 
 - Rhett Creighton
+- Ross Blankenship
