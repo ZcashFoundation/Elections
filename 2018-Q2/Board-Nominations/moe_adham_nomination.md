@@ -21,6 +21,8 @@ I founded Bitaccess.ca in 2013. We are one of the largest Bitcoin ATM producers 
 
 Before founding Bitaccess, I obtained a Masters of Nanotechnology from the Swiss Institute of Technology. I'm quite well versed in all subjects related to chip design/ASIC technology. I got my start in Bitcoin by mining Bitcoins using FPGA's (VHDL) I had access to at EPFL in 2011. I have a very good idea of what makes an algorithm ASIC resistant, for example.
 
+I am also the Cheif Investment Officer of [Cypherpunk Holdings](https://www.cypherpunkhodlings.com/). Cypherpunk Holdings is a [publicly traded investment company](https://www.bloomberg.com/press-releases/2018-06-11/khan-resources-announces-executive-and-board-additions-and-a-proposed-name-change-to-cypherpunk-holdings-inc) in Canada. Our investment thesis remains that networks that provide strong decentalization and strong privacy will be the most valuable over the long term. We invest funds accordingly. 
+
 I hope to assist the board in technical related subjects. These would include threat modelling and appropriate responses (ex. nation states, miners, forks, etc). I would also like to augment relationships with the academic community to ensure empirical research continues on the privacy modelling of the Zcash protocol.
 
 At Bitaccess, we've built a pretty great access point for cryptocurrencies through our BTM product, as well as our private exchange https://faa.st. I speak frequently at conferences in North america and europe, with a special focus on academic and governmental issues.
