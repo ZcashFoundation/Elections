@@ -1,5 +1,3 @@
-*(totally real)*
-
 # Robert Viglione (finpunk)
 
 I, Robert Viglione, hereby nominate myself for the Zcash Foundation Board of Directors.
@@ -22,4 +20,4 @@ My background is in physics, applied mathematics, and then financial economics f
 
 What excites me most about this industry: separating money from state, "Uberizing" big parts of economic life, and redefining collaborative governance. These values complement work I'm doing as an advisor with [Seasteading](https://www.seasteading.org/) where we're building offshore start-up societies based on peaceful collaboration and evolutionary governance.
 
-In summary, besides being a big fan of Zcash, a practitioner proliferating the tech, and very much aligned with the core values of the Foundation, I'd like to bring the Zcash, Zen, and other zk communities closer to leverage capabilities and opportunities to make the world a better place together.  
+In summary, besides being a big fan of Zcash, a practitioner proliferating the tech, and very much aligned with the core values of the Foundation, I'd like to bring the Zcash, Zen, and other zk communities closer to leverage capabilities and opportunities to make the world a better place together.
