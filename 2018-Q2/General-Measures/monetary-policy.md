@@ -1,11 +1,14 @@
 *(improve taxes)*
 
-# Ballot Proposal: The Official Zcash Taxes are improved
+# Ballot Proposal: Zcash Foundation on Monetary Policy
 
 Proposed ballot entry:
 
 ```
-Dev tax range from 20% to 2020 each year to break all of these. Annually 10% 2019 5% Each year 2020 2,5% 2021 1,25% 2022 0,625% 2023 2024 is 0,625%. why? 210.000 has been completed.
+The Foundation should be open to discussing changes to monetary policy and/or supply schedule.
+
+- Agree
+- Disagree
 ```
 
 ## Point-Counterpoint on Each Choice
