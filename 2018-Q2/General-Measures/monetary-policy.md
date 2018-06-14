@@ -1,5 +1,3 @@
-*(improve taxes)*
-
 # Ballot Proposal: Zcash Foundation on Monetary Policy
 
 Proposed ballot entry:
