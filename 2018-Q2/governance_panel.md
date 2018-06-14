@@ -48,7 +48,7 @@
 | Hudson Jameson | https://twitter.com/hudsonjameson/status/999887435084410880 |
 | Brendan Bernstein | |
 | Ian Miers | https://twitter.com/secparam/status/1000063064253911040 |
-| Eric Metzler | https://twitter.com/wheatpond/status/1000133384704856065 |
+| Eric Meltzer | https://twitter.com/wheatpond/status/1000133384704856065 |
 | Steven Zheng | https://twitter.com/Dogetoshi/status/1000561381790363649 |
 | John Bruhling | https://twitter.com/JBruhling/status/1000197993461510144 |
 | kek (forum.z.cash username) | |
