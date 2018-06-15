@@ -5,6 +5,7 @@ Proposed ballot entry:
 ```
 The Foundation should endeavor to establish the official Zcash mascot as one of the following choices:
 
+- Zorilla
 - Zeal, a collection of Zebras
 - Waterbear
 - Squirrel
