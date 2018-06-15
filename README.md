@@ -56,7 +56,7 @@ Within the 2018-Q2 folder in this repository, you'll find two separate folders:
 - [Board-Nominations](2018-Q2/Board-Nominations)
 - [General-Measures](2018-Q2/General-Measures)
  
-The folders are self explanatory, but just in case: if you're nominating yourself for the Board, you'll put a markdown file in that folder which includes a brief statement to describe why you should be considered (e.g., your background or contributions to the community) and open a Pull Request to spark public debate. Board nomination votes will be done on a "Satisfaction Approval Voting" method (more on that below).
+The folders are self explanatory, but just in case: if you're nominating yourself for the Board, you'll put a markdown file in that folder which includes a brief statement to describe why you should be considered (e.g., your background or contributions to the community) and open a Pull Request to spark public debate. Board nomination votes will be done on a "~Satisfaction~ Approval Voting" method (more on that below).
 
 For general measures (e.g, "Should the Foundation put more resources into studying ASIC Resistance?" "Which of these five attributes of a privacy-preserving cryptocurrency should be prioritized?" etc.) a submitter should put a markdown file in the corresponding folder with their statement and possible responses as a Pull Request, and a brief background explaining the context of their proposal and their best-effort at pros/cons of each possible selection.
 
@@ -68,18 +68,13 @@ After assembling the Community Governance Panel and proposals, we'll conduct an 
 
 1. Electing new Board Members
 
-This will use the ["Satisfaction Approval Voting"](https://en.wikipedia.org/wiki/Satisfaction_approval_voting) voting method.
+*Note, originally, we were planning on using the [Satisfaction Approval Voting](https://en.wikipedia.org/wiki/Satisfaction_approval_voting) method, but we were worried about the length of the ballot and perceived complexity integrating with Helios. Instead, we switched to simpler [Approval Voting.](https://en.wikipedia.org/wiki/Satisfaction_approval_voting)*
 
-Suppose we have N candidates, and two seats to fill, 
+This will use the ["Approval Voting"](https://en.wikipedia.org/wiki/Approval_voting) method.
 
-Each voter will see an individual ballot item for each nominee:
+Suppose we have three seats to fill: Each voter will see an aggregated ballot with every candidate, and will be able to select 0 to 3 Board Members for whom they approve.
 
-- Candidate 1:  	approve/reject (or number between 0 and 1)
-- Candidate 2: 	approve/reject (or number between 0 and 1)
-...
-- Candidate N: 	approve/reject (or number between 0 and 1)
-
-The two candidates with the most total votes are the winners. The votes are weighted so that every voter contributes 1.0 total weight. If you pick two candidates, your vote counts 0.5 for each of them, 0 for the rest. If you pick 5 candidates, your vote counts 0.2 for each of them.
+The three candidates with the most total votes are the winners.
 
 2. Voting on General Measures
 
