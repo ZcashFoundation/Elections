@@ -68,6 +68,9 @@
 | Louis Mareschi | https://twitter.com/louismareschi/status/1004533065140428800 |
 | Vladimir Dinev | https://twitter.com/Vladimirl201/status/1006569180072697856 |
 | Jia Tian | |
+| Aparna Krishnan | |
+| Chase Robert | |
+\ Dovey Wan | |
 
 ### Rejected Members
 
