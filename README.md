@@ -70,11 +70,9 @@ After assembling the Community Governance Panel and proposals, we'll conduct an 
 
 *Note, originally, we were planning on using the [Satisfaction Approval Voting](https://en.wikipedia.org/wiki/Satisfaction_approval_voting) method, but we were worried about the length of the ballot and perceived complexity integrating with Helios. Instead, we switched to simpler [Approval Voting.](https://en.wikipedia.org/wiki/Satisfaction_approval_voting)*
 
-This will use the ["Approval Voting"](https://en.wikipedia.org/wiki/Approval_voting) method.
+For the 2018-Q2 election, the Community Governance Panel will select two new board members, as well as a runner-up, via the ["Approval Voting"](https://en.wikipedia.org/wiki/Approval_voting) method. Each voter will see an aggregated ballot with every candidate, and will be able to select 0 to 3 Board Members for whom they approve.
 
-Suppose we have three seats to fill: Each voter will see an aggregated ballot with every candidate, and will be able to select 0 to 3 Board Members for whom they approve.
-
-The three candidates with the most total votes are the winners.
+The two candidates with the most total votes are the winners, and the candidate with the third most votes is the runner-up.
 
 2. Voting on General Measures
 
