@@ -14,6 +14,13 @@ The Foundation should endeavor to establish the official Zcash mascot as one of 
 
 ## Point-Counterpoint on Each Choice
 
+### Zorilla
+![a zorilla](https://www.activewild.com/wp-content/uploads/2017/11/Zorilla.jpg)
+
+Pro: Has dark-brown fur marked with light stripes which is pretty rad
+
+Con: Some people don't know zorillas
+
 ### Zeal
 ![a zeal](https://c1.staticflickr.com/6/5167/5331355068_4d94923594_b.jpg)
 
