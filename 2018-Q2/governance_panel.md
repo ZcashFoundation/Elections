@@ -68,7 +68,7 @@
 | Louis Mareschi | https://twitter.com/louismareschi/status/1004533065140428800 |
 | Vladimir Dinev | https://twitter.com/Vladimirl201/status/1006569180072697856 |
 | Jia Tian | |
-| Aparna Krishnan | |
+| Aparna Krishnan | https://twitter.com/aparnalocked/status/1008609574205583360 |
 | Chase Robert | |
 | Dovey Wan | |
 | Alex Biryukov | https://twitter.com/alexcryptan/status/1000307364317327360 |
