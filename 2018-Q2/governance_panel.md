@@ -70,7 +70,8 @@
 | Jia Tian | |
 | Aparna Krishnan | |
 | Chase Robert | |
-\ Dovey Wan | |
+| Dovey Wan | |
+| Alex Biryukov | https://twitter.com/alexcryptan/status/1000307364317327360 |
 
 ### Rejected Members
 
