@@ -72,6 +72,12 @@
 | Chase Robert | |
 | Dovey Wan | |
 | Alex Biryukov | https://twitter.com/alexcryptan/status/1000307364317327360 |
+| Matthew Green | |
+\ Andrew Glidden | https://twitter.com/asglidden/status/1008854588869316609 |
+| Li Xiaolai | |
+| Lao Mao | |
+| Tiemae Roquerre | |
+
 
 ### Rejected Members
 
