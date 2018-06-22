@@ -66,6 +66,10 @@ Proposals can be opened at any time, but Foundation personnel will make the ulti
 
 After assembling the Community Governance Panel and proposals, we'll conduct an election of Board Members and General Measures remotely. We'll structure and collect votes online via [Helios](https://vote.heliosvoting.org/) and allow participants to publish the proof of their vote in whatever medium they prefer. Helios meets most of our design goals (no double-counted or suppressed votes, missing or changed votes would be easy to detect, private voting) although we'd love to have some private voting built into the [Zcash protocol for future elections.](https://eprint.iacr.org/2017/585.pdf)
 
+You can see the 2018-Q2 governance panel election on Helios here:
+
+https://vote.heliosvoting.org/helios/elections/cdc15aa6-6f75-11e8-b5e0-0e48ec97cebb/view
+
 1. Electing new Board Members
 
 *Note, originally, we were planning on using the [Satisfaction Approval Voting](https://en.wikipedia.org/wiki/Satisfaction_approval_voting) method, but we were worried about the length of the ballot and perceived complexity integrating with Helios. Instead, we switched to simpler [Approval Voting.](https://en.wikipedia.org/wiki/Satisfaction_approval_voting)*
@@ -78,7 +82,7 @@ The two candidates with the most total votes are the winners, and the candidate 
 
 Each approved general measure will be voted on individually, depending on the parameters of the ballot.
 
-Voting will commence between the final ballot assembly (~~May 31st, 2018~~ June 8th, 2018) and two weeks afterward (~~June 14th, 2018~~ June 22nd, 2018), and will be managed by the Executive Director of the Foundation. Results will be announced at Zcon0 before being published widely. (Note: we have updated the dates to give more time for ballot discussion and governance panel applications)
+Voting will commence between the final ballot assembly (~~May 31st, 2018~~ June 8th, 2018) and roughly two weeks afterward (~~June 14th, 2018~~ June 25th, 2018 3pm UTC), and will be managed by the Executive Director of the Foundation. Results will be available on the Helios page and discussed at Zcon0 (Note: we have updated the dates to give more time for ballot discussion and governance panel applications)
 
 Due to our bylaws, decisions must ultimately be made by majority vote of Board Members. Hence we cannot declare this election to be binding—instead the outcome of the election will have to be ratified by the Board Members before taking effect. But we find it unlikely that the Board would go against the will of the community in a fair, well-constructed election.
 
